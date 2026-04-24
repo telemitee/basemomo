@@ -33,7 +33,7 @@ DEBUG_IGNORE_LOG = True
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "22b6125bfe224587b722d6815002db2b")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "c9c63c6fbf2f467c8bc68624851e9773")
 
-# ── Session strings (optional) ────────────────────────────────────────────────
+# ── Session strings (optional) ──────────────────────────────────────────────
 STRING1 = getenv("STRING_SESSION")
 STRING2 = getenv("STRING_SESSION2")
 STRING3 = getenv("STRING_SESSION3")
