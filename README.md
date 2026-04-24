@@ -33,13 +33,13 @@ DEBUG_IGNORE_LOG = True
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "22b6125bfe224587b722d6815002db2b")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "c9c63c6fbf2f467c8bc68624851e9773")
 
-# ── Session strings (optional) ──────────────────────────────────────────
+# ── Session strings (optional) ────────────────────────────────────────
 STRING1 = getenv("STRING_SESSION")
 STRING2 = getenv("STRING_SESSION2")
 STRING3 = getenv("STRING_SESSION3")
 STRING4 = getenv("STRING_SESSION4")
 STRING5 = getenv("STRING_SESSION5")
-# ── Media assets ─────────────────────────────────────────────────────────
+# ── Media assets ──────────────────────────────────────────────────────
 START_VIDS = [
     "https://telegra.ph/file/9b7e1b820c72a14d90be7.mp4",
     "https://telegra.ph/file/72f349b1386d6d9374a38.mp4",
