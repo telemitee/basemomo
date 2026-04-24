@@ -24,7 +24,7 @@ GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CertifiedNetwork")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CertifiedDiscussion")
 
-# ── Assistant auto-leave ───────────────────────────────────────────────────────
+# ── Assistant auto-leave 
 AUTO_LEAVING_ASSISTANT = False
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "3600"))
 # ── Debug ──────────────────────────────────────────────────────────────────────
