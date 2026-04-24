@@ -20,7 +20,7 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/CertifiedCoders/Anni
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
-# ── Support links ──────────────────────────────────────────────────────────────
+# ── Support links 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CertifiedNetwork")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CertifiedDiscussion")
 
