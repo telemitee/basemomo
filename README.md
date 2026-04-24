@@ -27,7 +27,7 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CertifiedDiscussion")
 # ── Assistant auto-leave 
 AUTO_LEAVING_ASSISTANT = False
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "3600"))
-# ── Debug ──────────────────────────────────────────────────────────────────────
+# ── Debug 
 DEBUG_IGNORE_LOG = True
 # ── Spotify (optional) ─────────────────────────────────────────────────────────
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "22b6125bfe224587b722d6815002db2b")
